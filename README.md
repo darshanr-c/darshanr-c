@@ -15,8 +15,8 @@ I’m pursuing a master’s degree in Data Science in Berlin and enjoy solving r
 
 ## 📚 Education & Certifications
 
-### Master’s in Data Science – University of Europe for Applied Sciences, Berlin (Sept 2023 – present)
-### B.Sc. Computer Science – University of Pune, India (Jul 2019 – Sept 2022)
+- Master’s in Data Science – University of Europe for Applied Sciences, Berlin (Sept 2023 – present)
+- B.Sc. Computer Science – University of Pune, India (Jul 2019 – Sept 2022)
 
 ---
 
