@@ -1,10 +1,10 @@
 ## 💫 About Me
 Data Enthusiast | Analytics & AI | M.Sc. Data Science<br><br>
 I'm a data science graduate student based in Berlin, passionate about solving real-world problems using data and AI. My work spans across:
-📊 **Data Analytics & Business Intelligence**
-⚙️ **End-to-end Machine Learning Pipelines (Airflow, Docker)**
-🤖 **Large Language Models (LLMs) & Retrieval-Augmented Generation**
-🧠 **Data Engineering & Automation Workflows**
+- 📊 **Data Analytics & Business Intelligence**
+- ⚙️ **End-to-end Machine Learning Pipelines (Airflow, Docker)**
+- 🤖 **Large Language Models (LLMs) & Retrieval-Augmented Generation**
+- 🧠 **Data Engineering & Automation Workflows**
 I’m fluent in English (C1) and speak intermediate German (B1).
 Currently open to internships and entry-level roles in **Data Analytics and AI**.
 
