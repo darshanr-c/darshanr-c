@@ -1,6 +1,12 @@
 ## 💫 About Me
-Data Analyst | BI Analyst | Passionate about AI & Data Engineering<br><br>
-I’m pursuing a master’s degree in Data Science in Berlin and enjoy solving real‑world problems with data. My experience ranges from building end‑to‑end machine‑learning pipelines and deploying models with Airflow and Docker to working with large language models (LLMs) and retrieval‑augmented generation systems. I’m business‑fluent in English and speak intermediate German, and I’m currently seeking AI‑focused internship opportunities.
+Data Enthusiast | Analytics & AI | M.Sc. Data Science<br><br>
+I'm a data science graduate student based in Berlin, passionate about solving real-world problems using data and AI. My work spans across:
+📊 **Data Analytics & Business Intelligence**
+⚙️ **End-to-end Machine Learning Pipelines (Airflow, Docker)**
+🤖 **Large Language Models (LLMs) & Retrieval-Augmented Generation**
+🧠 **Data Engineering & Automation Workflows**
+I’m fluent in English (C1) and speak intermediate German (B1).
+Currently open to internships and entry-level roles in **Data Analytics and AI**.
 
 ---
 
@@ -11,6 +17,11 @@ I’m pursuing a master’s degree in Data Science in Berlin and enjoy solving r
 ---
 
 ## 🌱 Featured Projects
+
+### LLM-Powered Match Summarization (Master's Thesis)
+- Developed a cricket match summarization system from commentary using **Large Language Models**.
+- Fine-tuned LLaMA-2 with **LoRA/QLoRA** on **400k+ lines IPL commentary**. Implemented factual guardrails and evaluated with **ROUGE, F1 Score and Human Reviews**.
+- Achieved **>95% factual accuracy** enabling automation of human-like post-match summaries.
 
 ### Marketing ROI & Customer Value Analysis	
 - This end‑to‑end case study dives into a marketing dataset to answer business questions such as which channels generate the most profit relative to ad spend, how valuable customers are over time and whether marketing spend is efficient
@@ -47,9 +58,10 @@ I’m pursuing a master’s degree in Data Science in Berlin and enjoy solving r
 
 ## Certifications 
 
-1. AWS Cloud Practitioner (2024)
-2. KNIME Analytics Platform L1 (2024)
+1. AWS Cloud Foundations (2024)
+2. BCG GenAI Job Simulation on Forage (2025)
 3. Python for Data Science 101 (2022)
+4. KNIME Analytics Platform L1 (2024)
 
 ---
 
